@@ -1,3 +1,4 @@
+// Ref: https://github.com/codeplaysoftware/SYCL-For-CUDA-Examples/blob/51e26c4edb1a8adef0537b94ebcaf35870473681/examples/vector_addition/vector_addition.cpp
 #include <iostream>
 #include <chrono>
 #include <algorithm>
