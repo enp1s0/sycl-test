@@ -1,5 +1,5 @@
-CXX=/opt/intel/oneapi/compiler/2024.0/bin/compiler/clang++
-CXXFLAGS=-std=c++17 -Wall -fsycl -fopenmp
+CXX=icpx
+CXXFLAGS=-std=c++17 -Wall -fsycl -qopenmp
 
 TARGET=vecadd.out
 
